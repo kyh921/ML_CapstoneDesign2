@@ -1,0 +1,65 @@
+{
+    "ForkliftAgent": {
+        "checkpoints": [
+            {
+                "steps": 254996,
+                "file_path": "results\\forklift\\ForkliftAgent\\ForkliftAgent-254996.onnx",
+                "reward": null,
+                "creation_time": 1749121672.8183389,
+                "auxillary_file_paths": [
+                    "results\\forklift\\ForkliftAgent\\ForkliftAgent-254996.pt"
+                ]
+            },
+            {
+                "steps": 344294,
+                "file_path": "results\\forklift\\ForkliftAgent\\ForkliftAgent-344294.onnx",
+                "reward": 1.930539722442627,
+                "creation_time": 1749121905.6060748,
+                "auxillary_file_paths": [
+                    "results\\forklift\\ForkliftAgent\\ForkliftAgent-344294.pt"
+                ]
+            },
+            {
+                "steps": 356894,
+                "file_path": "results\\forklift\\ForkliftAgent\\ForkliftAgent-356894.onnx",
+                "reward": null,
+                "creation_time": 1749126204.3097074,
+                "auxillary_file_paths": [
+                    "results\\forklift\\ForkliftAgent\\ForkliftAgent-356894.pt"
+                ]
+            },
+            {
+                "steps": 417329,
+                "file_path": "results\\forklift\\ForkliftAgent\\ForkliftAgent-417329.onnx",
+                "reward": null,
+                "creation_time": 1749126380.045002,
+                "auxillary_file_paths": [
+                    "results\\forklift\\ForkliftAgent\\ForkliftAgent-417329.pt"
+                ]
+            },
+            {
+                "steps": 439529,
+                "file_path": "results\\forklift\\ForkliftAgent\\ForkliftAgent-439529.onnx",
+                "reward": 1.879648171365261,
+                "creation_time": 1749126621.7364035,
+                "auxillary_file_paths": [
+                    "results\\forklift\\ForkliftAgent\\ForkliftAgent-439529.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 439529,
+            "file_path": "results\\forklift\\ForkliftAgent.onnx",
+            "reward": 1.879648171365261,
+            "creation_time": 1749126621.7364035,
+            "auxillary_file_paths": [
+                "results\\forklift\\ForkliftAgent\\ForkliftAgent-439529.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}

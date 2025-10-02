@@ -1,0 +1,29 @@
+{
+    "ForkliftAgent": {
+        "checkpoints": [
+            {
+                "steps": 48106,
+                "file_path": "results\\folklift1\\ForkliftAgent\\ForkliftAgent-48106.onnx",
+                "reward": null,
+                "creation_time": 1749455307.1538289,
+                "auxillary_file_paths": [
+                    "results\\folklift1\\ForkliftAgent\\ForkliftAgent-48106.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 48106,
+            "file_path": "results\\folklift1\\ForkliftAgent.onnx",
+            "reward": null,
+            "creation_time": 1749455307.1538289,
+            "auxillary_file_paths": [
+                "results\\folklift1\\ForkliftAgent\\ForkliftAgent-48106.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}
