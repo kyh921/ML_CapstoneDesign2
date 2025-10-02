@@ -6,6 +6,6 @@ public class Hello : MonoBehaviour
 {
      void Start()
     {
-        Debug.Log("Hello v2"); // 확인용 메시지
+        Debug.Log("Hello v3"); // 확인용 메시지
     }
 }
